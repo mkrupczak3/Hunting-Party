@@ -1,5 +1,5 @@
 # Hunting-Party
-A decentralized work, group consensus, and leadership platform
+A decentralized work, social, and communication platform with consensus and leadership selection functions
 
 ## Value Proposal
 Inspired by the [rafting algorithm](https://matthew.krupczak.org/2019/11/11/failure-tolerance-with-the-rafting-algorithm-kubernetes) used by [Kubernetes](https://kubernetes.io/)
